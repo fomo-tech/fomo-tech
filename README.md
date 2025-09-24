@@ -19,4 +19,7 @@
 
 <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%C3%A0nh-l%E1%BB%99c-479476196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
 </p>
+<p align="left">
 
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%C3%A0nh-l%E1%BB%99c-479476196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
+</p>
