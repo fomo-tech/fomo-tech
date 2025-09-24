@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkwN3Ewdm1ibDhnN2J5Mjd0dDhwNzRscWhjaTMzc3FpMHdtcmFvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif)]()
 
 <h1 align="center">Hi 👋, I'm  Nguyen Thanh Loc </h1>
 <h3 align="center">I am a Web App Developer with over 3 years of experience, specializing in frontend development using React, Vue.js, and Next.js to create user-friendly and high-performance interfaces. With a strong design sense and backend knowledge in Node.js and MongoDB, I ensure seamless interaction between frontend and backend. My goal is to deliver innovative, scalable, and efficient web applications that meet user needs.</h3>
