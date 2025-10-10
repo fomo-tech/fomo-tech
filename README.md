@@ -46,8 +46,30 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,nodejs,express,mongodb,tailwind,git,figma,vercel,linux" />
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/?size=48&id=123603&format=png&color=00E0FF" alt="React" title="React" />
+  <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVw&format=png&color=00E0FF" alt="Next.js" title="Next.js" />
+  <img src="https://img.icons8.com/?size=48&id=123595&format=png&color=00E0FF" alt="Vue.js" title="Vue.js" />
+  <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=00E0FF" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=00E0FF" alt="TypeScript" title="TypeScript" />
 </p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.icons8.com/?size=48&id=54087&format=png&color=00E0FF" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/?size=48&id=90519&format=png&color=00E0FF" alt="Express.js" title="Express.js" />
+  <img src="https://img.icons8.com/?size=48&id=74402&format=png&color=00E0FF" alt="MongoDB" title="MongoDB" />
+</p>
+
+<p align="center">
+  <!-- Tools & Design -->
+  <img src="https://img.icons8.com/?size=48&id=106167&format=png&color=00E0FF" alt="TailwindCSS" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/?size=48&id=20906&format=png&color=00E0FF" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=00E0FF" alt="Figma" title="Figma" />
+  <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=00E0FF" alt="Linux" title="Linux" />
+  <img src="https://img.icons8.com/?size=48&id=20906&format=png&color=00E0FF" alt="Vercel" title="Vercel" />
+</p>
+
 
 ---
 
